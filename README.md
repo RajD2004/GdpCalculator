@@ -21,5 +21,3 @@ The program reads a GDP data file, extracts the relevant rows, finds the minimum
 - Clean console output in tabular format
 
 
-## File Structure
-
